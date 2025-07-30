@@ -50,5 +50,6 @@ hayashi/の下も参考にされてください。
 
 ## 連絡先
 林健太郎 @CNPトレカアプリ開発者
+
 XのDMが届きやすいです。
 https://x.com/kabuco_h
