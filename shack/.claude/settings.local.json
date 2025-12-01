@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__cipher__ask_cipher",
+      "Bash(stt:*)"
+    ],
+    "deny": []
+  }
+}
